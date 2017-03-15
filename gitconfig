@@ -25,3 +25,6 @@
   autosquash = true
 [include]
   path = ~/.gitconfig.local
+[user]
+	name = Krs Joseph
+	email = krspjoseph@gmail.com
